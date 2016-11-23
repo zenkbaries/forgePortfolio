@@ -19,6 +19,7 @@ h2 {
   font-size: 18px;
 }
 
+
 .about {
   width: 400px;
   margin-left: auto;
@@ -38,4 +39,11 @@ h2 {
   border-style: solid;
   border-color: white;
   margin-top: 40px;
+}
+
+.grey {
+  height: 3px;
+  background-color: #919191;
+  border: none;
+  width: 50px;
 }
