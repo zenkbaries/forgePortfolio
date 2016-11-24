@@ -12,11 +12,13 @@ h1 {
   color:white;
   font-size: 50px;
   font-weight: normal;
+  margin-bottom: 0;
 }
 
 h2 {
   color:white;
   font-size: 18px;
+  margin-top: 0;
 }
 
 
@@ -46,4 +48,9 @@ h2 {
   background-color: #919191;
   border: none;
   width: 50px;
+}
+
+.badge {
+
+
 }
